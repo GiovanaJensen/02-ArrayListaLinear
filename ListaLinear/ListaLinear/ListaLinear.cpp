@@ -122,6 +122,6 @@ void buscarElemento()
 		
 	}
 	else {
-		cout << "Lista cheia";
+		cout << "Lista vazia" << endl;
 	}
 }
