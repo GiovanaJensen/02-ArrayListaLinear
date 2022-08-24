@@ -1,5 +1,8 @@
 # Lista Linear
 
+## Nome: Giovana de Oliveira Fernandes
+## E-mail: giovana.fernandes2@fatec.sp.gov.br
+
 Faça um fork deste repositorio e implemente a função buscarElemento
 
 **buscarElemento:**
